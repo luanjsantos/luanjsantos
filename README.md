@@ -44,7 +44,7 @@ Sou orientado a resultados, padrões arquiteturais, escalabilidade e engenharia 
 ## 📎 Contato Profissional
 
 🌐 **Site:** https://luanjsantos.vercel.app  
-💼 **LinkedIn:** /luanjuniorsantosmargato  
+💼 **LinkedIn:** /luanjuniordossantosmargato
 
 ---
 
