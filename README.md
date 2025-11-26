@@ -9,7 +9,7 @@
   <a href="https://luanjsantos.vercel.app">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/luanjuniorsantosmargato/">
+  <a href="https://www.linkedin.com/in/luanjuniordossantosmargato/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
